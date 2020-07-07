@@ -1,3 +1,3 @@
 # Admixture Mapping Project
 
-## Here is the pipline for the admxiture mapping analysis.
+## Here is the pipeline for the admxiture mapping analysis.
