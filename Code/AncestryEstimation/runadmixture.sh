@@ -19,7 +19,7 @@ do
 #PBS -l nodes=1:ppn=6
 #PBS -l walltime=20:00:00
 #PBS -l pmem=32gb
-#PBS -A tll30_a_g_bc_default 
+#PBS -A open
 #PBS -j oe
 cd ${thisdir}
 admixture --cv -j6 ${file} ${k}" >> job_${file}_k${k}.pbs #Creating job to run admixture
